@@ -1,0 +1,826 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webtorrent",
+          "description": "BitTorrent over WebRTC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T20:27:23Z",
+            "owner": "webtorrent",
+            "repo": "webtorrent",
+            "stars": 31326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gun",
+          "description": "A realtime, decentralized, offline-first, graph database engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T11:38:47Z",
+            "owner": "amark",
+            "repo": "gun",
+            "stars": 19109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websocketd",
+          "description": "Turn any program that uses stdin/stdout into a WebSocket server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-11T08:55:11Z",
+            "owner": "joewalnes",
+            "repo": "websocketd",
+            "stars": 17481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peerflix",
+          "description": "Streaming torrent client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-19T23:29:59Z",
+            "owner": "mafintosh",
+            "repo": "peerflix",
+            "stars": 6277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "instant.io",
+          "description": "Streaming file transfer over WebTorrent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:59:25Z",
+            "owner": "webtorrent",
+            "repo": "instant.io",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "screencat",
+          "description": "WebRTC screensharing app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-02-18T12:54:39Z",
+            "owner": "max-mapper",
+            "repo": "screencat",
+            "stars": 3003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torrent-mount",
+          "description": "Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-29T21:32:27Z",
+            "owner": "mafintosh",
+            "repo": "torrent-mount",
+            "stars": 1415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airpaste",
+          "description": "1-1 network pipe that auto discovers other peers using mdns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-18T11:18:53Z",
+            "owner": "mafintosh",
+            "repo": "airpaste",
+            "stars": 829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "signalhub",
+          "description": "Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-19T18:17:25Z",
+            "owner": "mafintosh",
+            "repo": "signalhub",
+            "stars": 674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipp-printer",
+          "description": "Create a printer on your network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-06T15:28:08Z",
+            "owner": "watson",
+            "repo": "ipp-printer",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peercast",
+          "description": "Like peerflix but for Chromecast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-07T23:15:03Z",
+            "owner": "mafintosh",
+            "repo": "peercast",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webcat",
+          "description": "pipe across the web using WebRTC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-28T21:28:03Z",
+            "owner": "mafintosh",
+            "repo": "webcat",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypervision",
+          "description": "P2P Television.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-17T14:29:47Z",
+            "owner": "mafintosh",
+            "repo": "hypervision",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peerwiki",
+          "description": "browse all of wikipedia using bittorrent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-09T21:48:23Z",
+            "owner": "mafintosh",
+            "repo": "peerwiki",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deejay",
+          "description": "Music player that broadcasts to everyone on the same network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-18T13:09:14Z",
+            "owner": "mafintosh",
+            "repo": "deejay",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperpipe",
+          "description": "Distributed input/output pipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-11T20:03:09Z",
+            "owner": "mafintosh",
+            "repo": "hyperpipe",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blecat",
+          "description": "1-1 pipe over bluetooth low energy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-06-15T19:19:37Z",
+            "owner": "mafintosh",
+            "repo": "blecat",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wifi-triangulate",
+          "description": "Finds your current position on planet earth using the wifi access point.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-23T14:25:43Z",
+            "owner": "watson",
+            "repo": "wifi-triangulate",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhtkv",
+          "description": "CLI for storing arbitrary key/value data in the bittorrent mainline DHT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-21T20:32:40Z",
+            "owner": "max-mapper",
+            "repo": "dhtkv",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peervisionary",
+          "description": "Stream p2p content over your local network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-27T01:09:42Z",
+            "owner": "mafintosh",
+            "repo": "peervisionary",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "High level"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simple-peer",
+          "description": "Simple WebRTC video/voice and data channels.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-26T14:45:57Z",
+            "owner": "feross",
+            "repo": "simple-peer",
+            "stars": 7806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torrent-stream",
+          "description": "The low level streaming torrent engine that peerflix uses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-04T19:55:34Z",
+            "owner": "mafintosh",
+            "repo": "torrent-stream",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperdb",
+          "description": "Distributed scalable database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-16T13:36:36Z",
+            "owner": "mafintosh",
+            "repo": "hyperdb",
+            "stars": 750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpc-websockets",
+          "description": "JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T08:29:57Z",
+            "owner": "elpheria",
+            "repo": "rpc-websockets",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discovery-swarm",
+          "description": "A network swarm that uses discovery-channel to find peers. Also check webrtc-swarm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-02T20:40:17Z",
+            "owner": "mafintosh",
+            "repo": "discovery-swarm",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airplay-server",
+          "description": "A low level AirPlay server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-25T21:52:43Z",
+            "owner": "watson",
+            "repo": "airplay-server",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "magnet-uri",
+          "description": "Parse a magnet URI and return an object of keys/values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T17:07:34Z",
+            "owner": "webtorrent",
+            "repo": "magnet-uri",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torrent-discovery",
+          "description": "Discover BitTorrent and WebTorrent peers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T04:09:20Z",
+            "owner": "webtorrent",
+            "repo": "torrent-discovery",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dns-packet",
+          "description": "Abstract-encoding compliant module for encoding / decoding DNS packets. Also see dns-socket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-04T08:50:38Z",
+            "owner": "mafintosh",
+            "repo": "dns-packet",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-websocket",
+          "description": "Simple, EventEmitter API for WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-30T17:06:43Z",
+            "owner": "feross",
+            "repo": "simple-websocket",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "castnow",
+          "description": "simple chromecast player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-13T10:57:42Z",
+            "owner": "xat",
+            "repo": "chromecast-player",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtsp-stream",
+          "description": "A transport agnostic RTSP serial multiplexer module for Node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-06T09:03:49Z",
+            "owner": "watson",
+            "repo": "rtsp-stream",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "network-address",
+          "description": "Get the local network address of your machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-17T15:00:06Z",
+            "owner": "mafintosh",
+            "repo": "network-address",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "etcdjs",
+          "description": "Low level etcd v2 client written in Javascript with failover support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-03T17:02:15Z",
+            "owner": "mafintosh",
+            "repo": "etcdjs",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ip-packet",
+          "description": "Encode/decode raw ip packets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-05T07:51:12Z",
+            "owner": "mafintosh",
+            "repo": "ip-packet",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hash-to-port",
+          "description": "Hash a value to a valid port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-29T11:47:23Z",
+            "owner": "mafintosh",
+            "repo": "hash-to-port",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mutex-server",
+          "description": "Critical section controllers, like mutex and semaphore, in the network level.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-25T11:36:20Z",
+            "owner": "samchon",
+            "repo": "mutex",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geocode-wifi",
+          "description": "Get yours latitude/longitude based on your wifi access point.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-07T20:53:06Z",
+            "owner": "watson",
+            "repo": "geocode-wifi",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "network-simulator",
+          "description": "Simulate a low-level computer network.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "udp-packet",
+          "description": "Encode/decode raw udp packets.",
+          "children": []
+        }
+      ],
+      "title": "Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hypercore",
+          "description": "A p2p network for distributing and replicating static feeds of binary data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T02:50:27Z",
+            "owner": "holepunchto",
+            "repo": "hypercore",
+            "stars": 2824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bittorrent-tracker",
+          "description": "BitTorrent tracker (client & server) implementation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:52:17Z",
+            "owner": "webtorrent",
+            "repo": "bittorrent-tracker",
+            "stars": 1934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bittorrent-dht",
+          "description": "BitTorrent DHT protocol implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T15:33:36Z",
+            "owner": "webtorrent",
+            "repo": "bittorrent-dht",
+            "stars": 1279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipfs",
+          "description": "The InterPlanetary File System, a new peer-to-peer hypermedia protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-03-06T17:51:37Z",
+            "owner": "ipfs-inactive",
+            "repo": "js-ipfs-http-client",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdns",
+          "description": "mdns/zeroconf/bonjour service discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-23T12:35:18Z",
+            "owner": "agnat",
+            "repo": "node_mdns",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "castv2",
+          "description": "An implementation of the Chromecast CASTV2 protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-04T11:45:49Z",
+            "owner": "thibauts",
+            "repo": "node-castv2",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bonjour",
+          "description": "A Bonjour/Zeroconf protocol implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-14T21:12:25Z",
+            "owner": "watson",
+            "repo": "bonjour",
+            "stars": 654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multicast-dns",
+          "description": "Low level multicast-dns implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-14T07:52:28Z",
+            "owner": "mafintosh",
+            "repo": "multicast-dns",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bittorrent-protocol",
+          "description": "BitTorrent peer wire protocol implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T04:12:51Z",
+            "owner": "webtorrent",
+            "repo": "bittorrent-protocol",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "polo",
+          "description": "A zero configuration service discovery module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-03-30T00:07:09Z",
+            "owner": "mafintosh",
+            "repo": "polo",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dht-rpc",
+          "description": "Make RPC calls over a Kademlia based DHT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T21:12:47Z",
+            "owner": "holepunchto",
+            "repo": "dht-rpc",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dns-discovery",
+          "description": "Discovery peers in a distributed system using regular dns and multicast dns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-14T18:26:44Z",
+            "owner": "mafintosh",
+            "repo": "dns-discovery",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k-bucket",
+          "description": "Kademlia DHT K-bucket implementation as a binary tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-28T06:46:56Z",
+            "owner": "tristanls",
+            "repo": "k-bucket",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airswarm",
+          "description": "Network swarm that automagically discovers other peers on the network using multicast dns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-07T20:02:28Z",
+            "owner": "mafintosh",
+            "repo": "airswarm",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utp-native",
+          "description": "micro transport protocol, a network protocol similar to tcp that runs on top of udp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-03T21:18:50Z",
+            "owner": "mafintosh",
+            "repo": "utp-native",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peervision",
+          "description": "Live p2p streaming protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-27T00:24:46Z",
+            "owner": "mafintosh",
+            "repo": "peervision",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k-rpc",
+          "description": "Implementation of the k-rpc protocol used the BitTorrent DHT. Also see k-rpc-socket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-01T01:27:42Z",
+            "owner": "mafintosh",
+            "repo": "k-rpc",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtsp-server",
+          "description": "A low level module for creating RTSP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-24T00:52:42Z",
+            "owner": "watson",
+            "repo": "rtsp-server",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Protocols"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:33.782Z",
+    "original_repository": "Kikobeats/awesome-network-js",
+    "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
+    "enhanced_repository": "enhansome/enhansome-network-js",
+    "enhanced_repository_description": null,
+    "title": "Awesome JavaScript Network with stars"
+  }
+}
