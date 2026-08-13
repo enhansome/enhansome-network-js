@@ -6,10 +6,10 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,326 | 🐛 80 | 🌐 JavaScript | 📅 2026-08-08 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,109 | 🐛 314 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,481 | 🐛 5 | 🌐 Go | 📅 2026-07-11 – Turn any program that uses stdin/stdout into a WebSocket server.
-* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,277 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,340 | 🐛 80 | 🌐 JavaScript | 📅 2026-08-08 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,110 | 🐛 314 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,479 | 🐛 5 | 🌐 Go | 📅 2026-07-11 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,278 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,593 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-11 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,003 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,415 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.

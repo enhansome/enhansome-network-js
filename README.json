@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31326
+            "stars": 31340
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-01T11:38:47Z",
             "owner": "amark",
             "repo": "gun",
-            "stars": 19109
+            "stars": 19110
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-11T08:55:11Z",
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17481
+            "stars": 17479
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2022-06-19T23:29:59Z",
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6277
+            "stars": 6278
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:29:33.782Z",
+    "last_updated": "2026-08-13T22:07:20.993Z",
     "original_repository": "Kikobeats/awesome-network-js",
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
     "enhanced_repository": "enhansome/enhansome-network-js",
