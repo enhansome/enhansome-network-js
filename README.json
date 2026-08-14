@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31340
+            "stars": 31348
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-11T08:55:11Z",
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17479
+            "stars": 17480
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T23:59:25Z",
+            "last_commit": "2026-08-14T18:31:50Z",
             "owner": "webtorrent",
             "repo": "instant.io",
-            "stars": 3593
+            "stars": 3592
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-15T08:29:57Z",
             "owner": "elpheria",
             "repo": "rpc-websockets",
-            "stars": 626
+            "stars": 625
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-06T17:07:34Z",
             "owner": "webtorrent",
             "repo": "magnet-uri",
-            "stars": 236
+            "stars": 237
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-04T02:50:27Z",
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2824
+            "stars": 2825
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:07:20.993Z",
+    "last_updated": "2026-08-14T21:45:35.581Z",
     "original_repository": "Kikobeats/awesome-network-js",
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
     "enhanced_repository": "enhansome/enhansome-network-js",
