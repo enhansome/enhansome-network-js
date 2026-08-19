@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Based, at least, in a CLI interface.",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13584262,
             "language": "JavaScript",
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31356
+            "stars": 31359
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22475123,
             "language": "JavaScript",
             "last_commit": "2026-08-01T11:38:47Z",
             "owner": "amark",
             "repo": "gun",
-            "stars": 19118
+            "stars": 19119
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8201256,
             "language": "Go",
             "last_commit": "2026-08-17T22:48:16Z",
             "owner": "joewalnes",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8780895,
             "language": "JavaScript",
             "last_commit": "2022-06-19T23:29:59Z",
             "owner": "mafintosh",
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22553278,
             "language": "JavaScript",
             "last_commit": "2026-08-14T18:31:50Z",
             "owner": "webtorrent",
             "repo": "instant.io",
-            "stars": 3593
+            "stars": 3594
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26951178,
             "language": "CSS",
             "last_commit": "2016-02-18T12:54:39Z",
             "owner": "max-mapper",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19126272,
             "language": "JavaScript",
             "last_commit": "2015-03-29T21:32:27Z",
             "owner": "mafintosh",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32639152,
             "language": "JavaScript",
             "last_commit": "2021-08-18T11:18:53Z",
             "owner": "mafintosh",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34084952,
             "language": "JavaScript",
             "last_commit": "2024-02-19T18:17:25Z",
             "owner": "mafintosh",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46385558,
             "language": "JavaScript",
             "last_commit": "2022-05-06T15:28:08Z",
             "owner": "watson",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24746012,
             "language": "JavaScript",
             "last_commit": "2018-05-07T23:15:03Z",
             "owner": "mafintosh",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34092783,
             "language": "JavaScript",
             "last_commit": "2020-07-28T21:28:03Z",
             "owner": "mafintosh",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73563483,
             "language": "JavaScript",
             "last_commit": "2018-06-17T14:29:47Z",
             "owner": "mafintosh",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23614403,
             "language": "JavaScript",
             "last_commit": "2018-02-09T21:48:23Z",
             "owner": "mafintosh",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48234818,
             "language": "JavaScript",
             "last_commit": "2015-12-18T13:09:14Z",
             "owner": "mafintosh",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72582282,
             "language": "JavaScript",
             "last_commit": "2017-07-11T20:03:09Z",
             "owner": "mafintosh",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34798238,
             "language": "JavaScript",
             "last_commit": "2015-06-15T19:19:37Z",
             "owner": "mafintosh",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37391733,
             "language": "JavaScript",
             "last_commit": "2016-04-23T14:25:43Z",
             "owner": "watson",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43108861,
             "language": "JavaScript",
             "last_commit": "2016-01-21T20:32:40Z",
             "owner": "max-mapper",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42109684,
             "language": "JavaScript",
             "last_commit": "2015-09-27T01:09:42Z",
             "owner": "mafintosh",
@@ -287,7 +307,7 @@
       "title": "High level"
     },
     {
-      "description": "",
+      "description": "Do one thing well.",
       "items": [
         {
           "node_type": "item",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21251069,
             "language": "JavaScript",
             "last_commit": "2024-06-26T14:45:57Z",
             "owner": "feross",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17562819,
             "language": "JavaScript",
             "last_commit": "2020-12-04T19:55:34Z",
             "owner": "mafintosh",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29986263,
             "language": "JavaScript",
             "last_commit": "2025-01-16T13:36:36Z",
             "owner": "mafintosh",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70642405,
             "language": "JavaScript",
             "last_commit": "2026-05-15T08:29:57Z",
             "owner": "elpheria",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51326935,
             "language": "JavaScript",
             "last_commit": "2020-08-02T20:40:17Z",
             "owner": "mafintosh",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22287575,
             "language": "JavaScript",
             "last_commit": "2016-09-25T21:52:43Z",
             "owner": "watson",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13917211,
             "language": "JavaScript",
             "last_commit": "2026-08-06T17:07:34Z",
             "owner": "webtorrent",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23037077,
             "language": "JavaScript",
             "last_commit": "2026-08-12T04:09:20Z",
             "owner": "webtorrent",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52037627,
             "language": "JavaScript",
             "last_commit": "2025-04-04T08:50:38Z",
             "owner": "mafintosh",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22798555,
             "language": "JavaScript",
             "last_commit": "2023-01-30T17:06:43Z",
             "owner": "feross",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24024846,
             "language": "JavaScript",
             "last_commit": "2018-03-13T10:57:42Z",
             "owner": "xat",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42361282,
             "language": "JavaScript",
             "last_commit": "2024-07-06T09:03:49Z",
             "owner": "watson",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6704265,
             "language": "JavaScript",
             "last_commit": "2017-01-17T15:00:06Z",
             "owner": "mafintosh",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19089415,
             "language": "JavaScript",
             "last_commit": "2024-06-03T17:02:15Z",
             "owner": "mafintosh",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40490432,
             "language": "JavaScript",
             "last_commit": "2024-07-05T07:51:12Z",
             "owner": "mafintosh",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43897439,
             "language": "JavaScript",
             "last_commit": "2020-11-29T11:47:23Z",
             "owner": "mafintosh",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266930692,
             "language": "TypeScript",
             "last_commit": "2024-06-25T11:36:20Z",
             "owner": "samchon",
@@ -534,30 +571,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37390345,
             "language": "JavaScript",
             "last_commit": "2015-07-07T20:53:06Z",
             "owner": "watson",
             "repo": "geocode-wifi",
             "stars": 28
           }
-        },
-        {
-          "node_type": "item",
-          "title": "network-simulator",
-          "description": "Simulate a low-level computer network.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "udp-packet",
-          "description": "Encode/decode raw udp packets.",
-          "children": []
         }
       ],
       "title": "Modules"
     },
     {
-      "description": "",
+      "description": "Implementation of protocols specs in pure javascript.",
       "items": [
         {
           "node_type": "item",
@@ -566,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48335985,
             "language": "JavaScript",
             "last_commit": "2026-08-04T02:50:27Z",
             "owner": "holepunchto",
@@ -580,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18131537,
             "language": "JavaScript",
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
@@ -594,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14274230,
             "language": "JavaScript",
             "last_commit": "2026-08-06T15:33:36Z",
             "owner": "webtorrent",
@@ -608,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24031839,
             "language": "JavaScript",
             "last_commit": "2020-03-06T17:51:37Z",
             "owner": "ipfs-inactive",
@@ -622,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641774,
             "language": "JavaScript",
             "last_commit": "2024-02-23T12:35:18Z",
             "owner": "agnat",
@@ -636,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20534352,
             "language": "JavaScript",
             "last_commit": "2022-07-04T11:45:49Z",
             "owner": "thibauts",
@@ -650,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45865227,
             "language": "JavaScript",
             "last_commit": "2026-02-14T21:12:25Z",
             "owner": "watson",
@@ -664,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28991537,
             "language": "JavaScript",
             "last_commit": "2024-06-14T07:52:28Z",
             "owner": "mafintosh",
@@ -678,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14274070,
             "language": "JavaScript",
             "last_commit": "2026-08-12T04:12:51Z",
             "owner": "webtorrent",
@@ -692,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3839206,
             "language": "JavaScript",
             "last_commit": "2015-03-30T00:07:09Z",
             "owner": "mafintosh",
@@ -706,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75411113,
             "language": "JavaScript",
             "last_commit": "2026-07-24T21:12:47Z",
             "owner": "holepunchto",
@@ -720,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48660543,
             "language": "JavaScript",
             "last_commit": "2022-03-14T18:26:44Z",
             "owner": "mafintosh",
@@ -734,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11192196,
             "language": "JavaScript",
             "last_commit": "2023-04-28T06:46:56Z",
             "owner": "tristanls",
@@ -748,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42082668,
             "language": "JavaScript",
             "last_commit": "2016-06-07T20:02:28Z",
             "owner": "mafintosh",
@@ -762,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34013158,
             "language": "JavaScript",
             "last_commit": "2024-09-03T21:18:50Z",
             "owner": "mafintosh",
@@ -776,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38076296,
             "language": "JavaScript",
             "last_commit": "2015-09-27T00:24:46Z",
             "owner": "mafintosh",
@@ -790,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48823011,
             "language": "JavaScript",
             "last_commit": "2023-02-01T01:27:42Z",
             "owner": "mafintosh",
@@ -804,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41830204,
             "language": "JavaScript",
             "last_commit": "2015-09-24T00:52:42Z",
             "owner": "watson",
@@ -816,8 +860,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:42:56.449Z",
+    "last_updated": "2026-08-19T12:40:49.712Z",
     "original_repository": "Kikobeats/awesome-network-js",
+    "original_repository_id": 44055144,
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
     "enhanced_repository": "enhansome/enhansome-network-js",
     "enhanced_repository_description": null,

@@ -6,11 +6,11 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,356 | 🐛 80 | 🌐 JavaScript | 📅 2026-08-08 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,118 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,359 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-08 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,119 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,469 | 🐛 4 | 🌐 Go | 📅 2026-08-17 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,277 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
-* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,593 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-14 – Streaming file transfer over WebTorrent.
+* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-14 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,003 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,415 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [airpaste](https://github.com/mafintosh/airpaste) ⭐ 829 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18 – 1-1 network pipe that auto discovers other peers using mdns.
@@ -70,11 +70,11 @@
 * [dns-discovery](https://github.com/mafintosh/dns-discovery) ⭐ 194 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-14 – Discovery peers in a distributed system using regular dns and multicast dns.
 * [k-bucket](https://github.com/tristanls/k-bucket) ⭐ 154 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-28 – Kademlia DHT K-bucket implementation as a binary tree.
 * [airswarm](https://github.com/mafintosh/airswarm) ⭐ 131 | 🐛 1 | 🌐 JavaScript | 📅 2016-06-07 – Network swarm that automagically discovers other peers on the network using multicast dns.
-* [utp-native](https://github.com/mafintosh/utp-native) ⭐ 102 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-03 – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
+* [utp-native](https://github.com/mafintosh/utp-native) ⭐ 102 | 🐛 17 | 🌐 JavaScript | 📅 2024-09-03 – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 * [peervision](https://github.com/mafintosh/peervision) ⭐ 97 | 🐛 2 | 🌐 JavaScript | 📅 2015-09-27 – Live p2p streaming protocol.
 * [k-rpc](https://github.com/mafintosh/k-rpc) ⭐ 76 | 🐛 6 | 🌐 JavaScript | 📅 2023-02-01 – Implementation of the k-rpc protocol used the BitTorrent DHT. Also see [k-rpc-socket](https://github.com/mafintosh/k-rpc-socket) ⭐ 25 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-01.
 * [rtsp-server](https://github.com/watson/rtsp-server) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2015-09-24 – A low level module for creating RTSP servers.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
