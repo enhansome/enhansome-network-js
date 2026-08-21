@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T20:27:23Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31362
+            "stars": 31363
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-01T11:38:47Z",
             "owner": "amark",
             "repo": "gun",
-            "stars": 19122
+            "stars": 19123
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T15:07:59Z",
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17468
+            "stars": 17467
           }
         },
         {
@@ -594,10 +594,10 @@
             "archived": false,
             "id": 48335985,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T15:52:48Z",
+            "last_commit": "2026-08-20T22:32:50Z",
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2827
+            "stars": 2893
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1936
+            "stars": 1937
           }
         },
         {
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:49:32.256Z",
+    "last_updated": "2026-08-21T21:44:23.235Z",
     "original_repository": "Kikobeats/awesome-network-js",
     "original_repository_id": 44055144,
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
