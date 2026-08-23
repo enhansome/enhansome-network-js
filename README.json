@@ -597,7 +597,7 @@
             "last_commit": "2026-08-20T22:32:50Z",
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2895
+            "stars": 2896
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T00:52:17Z",
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1937
+            "stars": 1936
           }
         },
         {
@@ -860,7 +860,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:41:58.651Z",
+    "last_updated": "2026-08-23T21:41:21.915Z",
     "original_repository": "Kikobeats/awesome-network-js",
     "original_repository_id": 44055144,
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
