@@ -30,7 +30,7 @@
             "last_commit": "2026-08-01T11:38:47Z",
             "owner": "amark",
             "repo": "gun",
-            "stars": 19127
+            "stars": 19126
           }
         },
         {
@@ -860,9 +860,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:53:02.831Z",
-    "original_repository": "Kikobeats/awesome-network-js",
-    "original_repository_id": 44055144,
+    "last_updated": "2026-08-27T11:51:31.232Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 44055144,
+      "language": null,
+      "last_commit": "2020-10-12T15:05:25Z",
+      "owner": "Kikobeats",
+      "repo": "awesome-network-js",
+      "stars": 582
+    },
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
     "enhanced_repository": "enhansome/enhansome-network-js",
     "enhanced_repository_description": null,
