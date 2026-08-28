@@ -12,11 +12,12 @@
             "archived": false,
             "id": 13584262,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T23:06:05Z",
+            "last_commit": "2026-08-28T03:29:24Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31372
-          }
+            "stars": 31371
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-01T11:38:47Z",
             "owner": "amark",
             "repo": "gun",
-            "stars": 19126
-          }
+            "stars": 19127
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "joewalnes",
             "repo": "websocketd",
             "stars": 17466
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mafintosh",
             "repo": "peerflix",
             "stars": 6273
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "webtorrent",
             "repo": "instant.io",
             "stars": 3594
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "max-mapper",
             "repo": "screencat",
             "stars": 3003
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "mafintosh",
             "repo": "torrent-mount",
             "stars": 1415
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mafintosh",
             "repo": "airpaste",
             "stars": 829
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mafintosh",
             "repo": "signalhub",
             "stars": 674
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "watson",
             "repo": "ipp-printer",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "mafintosh",
             "repo": "peercast",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mafintosh",
             "repo": "webcat",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mafintosh",
             "repo": "hypervision",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "mafintosh",
             "repo": "peerwiki",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mafintosh",
             "repo": "deejay",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "mafintosh",
             "repo": "hyperpipe",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "mafintosh",
             "repo": "blecat",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "watson",
             "repo": "wifi-triangulate",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "max-mapper",
             "repo": "dhtkv",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "mafintosh",
             "repo": "peervisionary",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         }
       ],
       "title": "High level"
@@ -322,7 +342,8 @@
             "owner": "feross",
             "repo": "simple-peer",
             "stars": 7803
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "mafintosh",
             "repo": "torrent-stream",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "mafintosh",
             "repo": "hyperdb",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "elpheria",
             "repo": "rpc-websockets",
             "stars": 625
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "mafintosh",
             "repo": "discovery-swarm",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "watson",
             "repo": "airplay-server",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -408,11 +434,12 @@
             "archived": false,
             "id": 13917211,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T17:07:34Z",
+            "last_commit": "2026-08-28T03:27:45Z",
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "webtorrent",
             "repo": "torrent-discovery",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "mafintosh",
             "repo": "dns-packet",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "feross",
             "repo": "simple-websocket",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "xat",
             "repo": "chromecast-player",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "watson",
             "repo": "rtsp-stream",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "mafintosh",
             "repo": "network-address",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "mafintosh",
             "repo": "etcdjs",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "mafintosh",
             "repo": "ip-packet",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "mafintosh",
             "repo": "hash-to-port",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "samchon",
             "repo": "mutex",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "watson",
             "repo": "geocode-wifi",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         }
       ],
       "title": "Modules"
@@ -598,7 +636,8 @@
             "owner": "holepunchto",
             "repo": "hypercore",
             "stars": 2903
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1937
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -624,11 +664,12 @@
             "archived": false,
             "id": 14274230,
             "language": "JavaScript",
-            "last_commit": "2026-08-06T15:33:36Z",
+            "last_commit": "2026-08-28T03:36:52Z",
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
             "stars": 1279
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "ipfs-inactive",
             "repo": "js-ipfs-http-client",
             "stars": 1042
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "agnat",
             "repo": "node_mdns",
             "stars": 877
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "thibauts",
             "repo": "node-castv2",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "watson",
             "repo": "bonjour",
             "stars": 654
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "mafintosh",
             "repo": "multicast-dns",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "webtorrent",
             "repo": "bittorrent-protocol",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "mafintosh",
             "repo": "polo",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "holepunchto",
             "repo": "dht-rpc",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "mafintosh",
             "repo": "dns-discovery",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "tristanls",
             "repo": "k-bucket",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "mafintosh",
             "repo": "airswarm",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "mafintosh",
             "repo": "utp-native",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "mafintosh",
             "repo": "peervision",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "mafintosh",
             "repo": "k-rpc",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         },
         {
           "node_type": "item",
@@ -853,14 +908,15 @@
             "owner": "watson",
             "repo": "rtsp-server",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
         }
       ],
       "title": "Protocols"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:31.232Z",
+    "last_updated": "2026-08-28T05:29:44.103Z",
     "original_repository_info": {
       "archived": false,
       "id": 44055144,
