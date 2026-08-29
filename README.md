@@ -6,8 +6,8 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,372 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,127 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,372 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-29 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,128 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,466 | 🐛 7 | 🌐 Go | 📅 2026-08-29 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,273 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-26 – Streaming file transfer over WebTorrent.
