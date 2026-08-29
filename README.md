@@ -6,9 +6,9 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,371 | 🐛 82 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent over WebRTC.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,372 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent over WebRTC.
 * [gun](https://github.com/amark/gun) ⭐ 19,127 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,466 | 🐛 3 | 🌐 Go | 📅 2026-08-20 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,466 | 🐛 7 | 🌐 Go | 📅 2026-08-29 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,273 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-26 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,003 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
@@ -38,7 +38,7 @@
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) ⭐ 371 | 🐛 29 | 🌐 JavaScript | 📅 2020-08-02 – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) ⚠️ Archived to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) ⭐ 378 | 🐛 15 | 🌐 JavaScript | 📅 2020-11-06.
 * [airplay-server](https://github.com/watson/airplay-server) ⭐ 264 | 🐛 5 | 🌐 JavaScript | 📅 2016-09-25 – A low level AirPlay server.
 * [magnet-uri](https://github.com/webtorrent/magnet-uri) ⭐ 237 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-28 – Parse a magnet URI and return an object of keys/values.
-* [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 228 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12 – Discover BitTorrent and WebTorrent peers.
+* [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 228 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-28 – Discover BitTorrent and WebTorrent peers.
 * [dns-packet](https://github.com/mafintosh/dns-packet) ⭐ 216 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25 – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket) ⭐ 106 | 🐛 9 | 🌐 JavaScript | 📅 2021-05-28.
 * [simple-websocket](https://github.com/feross/simple-websocket) ⭐ 186 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-30 – Simple, EventEmitter API for WebSockets.
 * [castnow](https://github.com/xat/chromecast-player) ⭐ 100 | 🐛 8 | 🌐 JavaScript | 📅 2018-03-13 – simple chromecast player.
@@ -56,9 +56,9 @@
 
 > Implementation of protocols specs in pure javascript.
 
-* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,903 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-25 – A p2p network for distributing and replicating static feeds of binary data.
+* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,904 | 🐛 59 | 🌐 JavaScript | 📅 2026-08-25 – A p2p network for distributing and replicating static feeds of binary data.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,937 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-12 – BitTorrent tracker (client & server) implementation
-* [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,279 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent DHT protocol implementation.
+* [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,280 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 877 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
 * [castv2](https://github.com/thibauts/node-castv2) ⭐ 794 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-04 – An implementation of the Chromecast CASTV2 protocol.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

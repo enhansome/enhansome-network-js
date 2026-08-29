@@ -12,10 +12,10 @@
             "archived": false,
             "id": 13584262,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T03:29:24Z",
+            "last_commit": "2026-08-28T21:03:14Z",
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31371
+            "stars": 31372
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
         },
@@ -44,7 +44,7 @@
             "archived": false,
             "id": 8201256,
             "language": "Go",
-            "last_commit": "2026-08-20T15:07:59Z",
+            "last_commit": "2026-08-29T02:31:44Z",
             "owner": "joewalnes",
             "repo": "websocketd",
             "stars": 17466
@@ -450,7 +450,7 @@
             "archived": false,
             "id": 23037077,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T04:09:20Z",
+            "last_commit": "2026-08-28T06:06:07Z",
             "owner": "webtorrent",
             "repo": "torrent-discovery",
             "stars": 228
@@ -635,7 +635,7 @@
             "last_commit": "2026-08-25T19:42:50Z",
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2903
+            "stars": 2904
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
         },
@@ -667,7 +667,7 @@
             "last_commit": "2026-08-28T03:36:52Z",
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1279
+            "stars": 1280
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
         },
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:29:44.103Z",
+    "last_updated": "2026-08-29T03:12:26.623Z",
     "original_repository_info": {
       "archived": false,
       "id": 44055144,
