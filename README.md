@@ -6,14 +6,14 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,378 | 🐛 84 | 🌐 JavaScript | 📅 2026-08-31 – BitTorrent over WebRTC.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,383 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-02 – BitTorrent over WebRTC.
 * [gun](https://github.com/amark/gun) ⭐ 19,129 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,465 | 🐛 7 | 🌐 Go | 📅 2026-08-29 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,463 | 🐛 3 | 🌐 Go | 📅 2026-09-02 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,273 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
-* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-26 – Streaming file transfer over WebTorrent.
-* [screencat](https://github.com/maxogden/screencat) ⭐ 3,003 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
+* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-02 – Streaming file transfer over WebTorrent.
+* [screencat](https://github.com/maxogden/screencat) ⭐ 3,002 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,415 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
-* [airpaste](https://github.com/mafintosh/airpaste) ⭐ 829 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18 – 1-1 network pipe that auto discovers other peers using mdns.
+* [airpaste](https://github.com/mafintosh/airpaste) ⭐ 828 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18 – 1-1 network pipe that auto discovers other peers using mdns.
 * [signalhub](https://github.com/mafintosh/signalhub) ⭐ 674 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-19 – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
 * [ipp-printer](https://github.com/watson/ipp-printer) ⭐ 578 | 🐛 32 | 🌐 JavaScript | 📅 2022-05-06 – Create a printer on your network.
 * [peercast](https://github.com/mafintosh/peercast) ⭐ 519 | 🐛 9 | 🌐 JavaScript | 📅 2018-05-07 – Like peerflix but for Chromecast.
@@ -31,7 +31,7 @@
 
 > Do one thing well.
 
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,802 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,801 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) ⭐ 1,973 | 🐛 91 | 🌐 JavaScript | 📅 2020-12-04 – The low level streaming torrent engine that peerflix uses.
 * [hyperdb](https://github.com/mafintosh/hyperdb) ⭐ 750 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-16 – Distributed scalable database.
 * [rpc-websockets](https://github.com/elpheria/rpc-websockets) ⭐ 625 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-15 - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
@@ -56,7 +56,7 @@
 
 > Implementation of protocols specs in pure javascript.
 
-* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,909 | 🐛 60 | 🌐 JavaScript | 📅 2026-08-25 – A p2p network for distributing and replicating static feeds of binary data.
+* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,909 | 🐛 61 | 🌐 JavaScript | 📅 2026-09-02 – A p2p network for distributing and replicating static feeds of binary data.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,937 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-12 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,280 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

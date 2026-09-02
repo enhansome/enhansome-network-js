@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:04:24Z",
+            "last_commit": "2026-09-02T20:13:45Z",
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31378,
+            "stars": 31383,
             "topics": [
               "bittorrent",
               "browser",
@@ -89,11 +89,11 @@
             "id": 8201256,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-29T02:31:44Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-02T00:43:57Z",
+            "open_issues": 3,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17465,
+            "stars": 17463,
             "topics": [
               "proxy",
               "websocket-server",
@@ -135,7 +135,7 @@
             "id": 22553278,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T17:48:52Z",
+            "last_commit": "2026-09-02T22:37:36Z",
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
@@ -168,7 +168,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 3003,
+            "stars": 3002,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -210,7 +210,7 @@
             "open_issues": 4,
             "owner": "mafintosh",
             "repo": "airpaste",
-            "stars": 829,
+            "stars": 828,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7802,
+            "stars": 7801,
             "topics": [
               "browser",
               "data-channels",
@@ -937,8 +937,8 @@
             "id": 48335985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T19:42:50Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-02T17:10:28Z",
+            "open_issues": 61,
             "owner": "holepunchto",
             "repo": "hypercore",
             "stars": 2909,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:24:35.273Z",
+    "last_updated": "2026-09-02T23:23:40.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
