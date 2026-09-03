@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31383,
+            "stars": 31384,
             "topics": [
               "bittorrent",
               "browser",
@@ -135,7 +135,7 @@
             "id": 22553278,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T22:37:36Z",
+            "last_commit": "2026-09-03T22:32:20Z",
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
@@ -560,7 +560,7 @@
             "open_issues": 17,
             "owner": "elpheria",
             "repo": "rpc-websockets",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "aws",
               "chat",
@@ -644,7 +644,7 @@
             "open_issues": 7,
             "owner": "webtorrent",
             "repo": "magnet-uri",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "bittorrent",
               "browser",
@@ -941,7 +941,7 @@
             "open_issues": 61,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2909,
+            "stars": 2910,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -962,7 +962,7 @@
             "open_issues": 22,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1937,
+            "stars": 1938,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -997,7 +997,7 @@
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1280,
+            "stars": 1281,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:23:40.827Z",
+    "last_updated": "2026-09-03T23:20:55.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
