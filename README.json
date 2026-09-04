@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31384,
+            "stars": 31387,
             "topics": [
               "bittorrent",
               "browser",
@@ -640,8 +640,8 @@
             "id": 13917211,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:27:45Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-04T15:51:18Z",
+            "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 238,
@@ -937,8 +937,8 @@
             "id": 48335985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T17:10:28Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-04T15:15:51Z",
+            "open_issues": 60,
             "owner": "holepunchto",
             "repo": "hypercore",
             "stars": 2910,
@@ -958,11 +958,11 @@
             "id": 18131537,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-12T00:52:17Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-04T21:12:43Z",
+            "open_issues": 18,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1938,
+            "stars": 1939,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -1253,7 +1253,7 @@
             "open_issues": 1,
             "owner": "mafintosh",
             "repo": "airswarm",
-            "stars": 131,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:20:55.624Z",
+    "last_updated": "2026-09-04T23:05:36.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
