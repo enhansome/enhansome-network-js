@@ -6,9 +6,9 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,384 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-05 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,129 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,464 | 🐛 4 | 🌐 Go | 📅 2026-09-02 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,386 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-05 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,131 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,463 | 🐛 4 | 🌐 Go | 📅 2026-09-02 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,272 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,594 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-03 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,002 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
@@ -61,7 +61,7 @@
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,281 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-28 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 877 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
-* [castv2](https://github.com/thibauts/node-castv2) ⭐ 794 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-04 – An implementation of the Chromecast CASTV2 protocol.
+* [castv2](https://github.com/thibauts/node-castv2) ⭐ 793 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-04 – An implementation of the Chromecast CASTV2 protocol.
 * [bonjour](https://github.com/watson/bonjour) ⭐ 654 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-14 – A Bonjour/Zeroconf protocol implementation.
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) ⭐ 532 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-14 – Low level multicast-dns implementation.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) ⭐ 358 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-27 – BitTorrent peer wire protocol implementation.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
