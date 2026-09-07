@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31386,
+            "stars": 31387,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 321,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19131,
+            "stars": 19132,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -89,11 +89,11 @@
             "id": 8201256,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-02T00:43:57Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-07T16:33:20Z",
+            "open_issues": 5,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17463,
+            "stars": 17464,
             "topics": [
               "proxy",
               "websocket-server",
@@ -135,7 +135,7 @@
             "id": 22553278,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T22:32:20Z",
+            "last_commit": "2026-09-07T23:36:03Z",
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
@@ -941,7 +941,7 @@
             "open_issues": 60,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2911,
+            "stars": 2912,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:56:05.975Z",
+    "last_updated": "2026-09-07T23:36:11.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
