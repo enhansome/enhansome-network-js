@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31386,
+            "stars": 31387,
             "topics": [
               "bittorrent",
               "browser",
@@ -48,10 +48,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-01T11:38:47Z",
-            "open_issues": 321,
+            "open_issues": 320,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19132,
+            "stars": 19131,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17464,
+            "stars": 17465,
             "topics": [
               "proxy",
               "websocket-server",
@@ -118,7 +118,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6272,
+            "stars": 6271,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -135,7 +135,7 @@
             "id": 22553278,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:36:34Z",
+            "last_commit": "2026-09-09T19:28:17Z",
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
@@ -168,7 +168,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 3002,
+            "stars": 3001,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -189,7 +189,7 @@
             "open_issues": 10,
             "owner": "mafintosh",
             "repo": "torrent-mount",
-            "stars": 1415,
+            "stars": 1414,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -252,7 +252,7 @@
             "open_issues": 32,
             "owner": "watson",
             "repo": "ipp-printer",
-            "stars": 578,
+            "stars": 576,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -280,27 +280,6 @@
         },
         {
           "node_type": "item",
-          "title": "webcat",
-          "description": "pipe across the web using WebRTC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery",
-            "homepage": null,
-            "id": 34092783,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2020-07-28T21:28:03Z",
-            "open_issues": 10,
-            "owner": "mafintosh",
-            "repo": "webcat",
-            "stars": 451,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:29:44.103Z"
-        },
-        {
-          "node_type": "item",
           "title": "hypervision",
           "description": "P2P Television.",
           "children": [],
@@ -316,6 +295,27 @@
             "owner": "mafintosh",
             "repo": "hypervision",
             "stars": 450,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:29:44.103Z"
+        },
+        {
+          "node_type": "item",
+          "title": "webcat",
+          "description": "pipe across the web using WebRTC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mad science p2p pipe across the web using webrtc that uses your Github private/public key for authentication and a signalhub for discovery",
+            "homepage": null,
+            "id": 34092783,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2020-07-28T21:28:03Z",
+            "open_issues": 10,
+            "owner": "mafintosh",
+            "repo": "webcat",
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -937,7 +937,7 @@
             "id": 48335985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:50:30Z",
+            "last_commit": "2026-09-09T21:41:05Z",
             "open_issues": 60,
             "owner": "holepunchto",
             "repo": "hypercore",
@@ -962,7 +962,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1939,
+            "stars": 1940,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -1053,7 +1053,7 @@
             "open_issues": 45,
             "owner": "agnat",
             "repo": "node_mdns",
-            "stars": 877,
+            "stars": 876,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1095,7 +1095,7 @@
             "open_issues": 53,
             "owner": "watson",
             "repo": "bonjour",
-            "stars": 654,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1167,7 +1167,7 @@
             "open_issues": 7,
             "owner": "mafintosh",
             "repo": "polo",
-            "stars": 246,
+            "stars": 245,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1274,7 +1274,7 @@
             "open_issues": 17,
             "owner": "mafintosh",
             "repo": "utp-native",
-            "stars": 102,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:27:51.318Z",
+    "last_updated": "2026-09-09T23:22:00.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
