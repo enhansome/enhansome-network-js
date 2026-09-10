@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T17:56:11Z",
+            "last_commit": "2026-09-10T06:48:38Z",
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31387,
+            "stars": 31388,
             "topics": [
               "bittorrent",
               "browser",
@@ -118,7 +118,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6271,
+            "stars": 6270,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7801,
+            "stars": 7800,
             "topics": [
               "browser",
               "data-channels",
@@ -640,7 +640,7 @@
             "id": 13917211,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:51:18Z",
+            "last_commit": "2026-09-10T03:45:54Z",
             "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
@@ -672,7 +672,7 @@
             "id": 23037077,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T06:06:07Z",
+            "last_commit": "2026-09-10T04:26:09Z",
             "open_issues": 6,
             "owner": "webtorrent",
             "repo": "torrent-discovery",
@@ -800,7 +800,7 @@
             "open_issues": 0,
             "owner": "mafintosh",
             "repo": "network-address",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -937,8 +937,8 @@
             "id": 48335985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T21:41:05Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-10T20:45:53Z",
+            "open_issues": 59,
             "owner": "holepunchto",
             "repo": "hypercore",
             "stars": 2911,
@@ -962,7 +962,7 @@
             "open_issues": 16,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1940,
+            "stars": 1941,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -993,11 +993,11 @@
             "id": 14274230,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:36:52Z",
+            "last_commit": "2026-09-10T09:43:58Z",
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1281,
+            "stars": 1282,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1074,7 +1074,7 @@
             "open_issues": 11,
             "owner": "thibauts",
             "repo": "node-castv2",
-            "stars": 793,
+            "stars": 792,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:22:00.368Z",
+    "last_updated": "2026-09-10T23:15:30.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
