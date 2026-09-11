@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31388,
+            "stars": 31389,
             "topics": [
               "bittorrent",
               "browser",
@@ -48,10 +48,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-01T11:38:47Z",
-            "open_issues": 320,
+            "open_issues": 321,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19131,
+            "stars": 19132,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17465,
+            "stars": 17464,
             "topics": [
               "proxy",
               "websocket-server",
@@ -118,7 +118,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6270,
+            "stars": 6271,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -941,7 +941,7 @@
             "open_issues": 59,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2911,
+            "stars": 2912,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1137,7 +1137,7 @@
             "open_issues": 8,
             "owner": "webtorrent",
             "repo": "bittorrent-protocol",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "bittorrent",
               "browser",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:15:30.952Z",
+    "last_updated": "2026-09-11T23:22:49.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
