@@ -6,7 +6,7 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,389 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-10 – BitTorrent over WebRTC.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,389 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-12 – BitTorrent over WebRTC.
 * [gun](https://github.com/amark/gun) ⭐ 19,132 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-01 – A realtime, decentralized, offline-first, graph database engine.
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,464 | 🐛 0 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,271 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
@@ -66,7 +66,7 @@
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) ⭐ 532 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-14 – Low level multicast-dns implementation.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) ⭐ 359 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-27 – BitTorrent peer wire protocol implementation.
 * [polo](https://github.com/mafintosh/polo) ⭐ 245 | 🐛 7 | 🌐 JavaScript | 📅 2015-03-30 – A zero configuration service discovery module.
-* [dht-rpc](https://github.com/mafintosh/dht-rpc) ⭐ 213 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-24 – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
+* [dht-rpc](https://github.com/mafintosh/dht-rpc) ⭐ 213 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-12 – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
 * [dns-discovery](https://github.com/mafintosh/dns-discovery) ⭐ 194 | 🐛 12 | 🌐 JavaScript | 📅 2022-03-14 – Discovery peers in a distributed system using regular dns and multicast dns.
 * [k-bucket](https://github.com/tristanls/k-bucket) ⭐ 154 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-28 – Kademlia DHT K-bucket implementation as a binary tree.
 * [airswarm](https://github.com/mafintosh/airswarm) ⭐ 130 | 🐛 1 | 🌐 JavaScript | 📅 2016-06-07 – Network swarm that automagically discovers other peers on the network using multicast dns.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

@@ -15,7 +15,7 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T06:48:38Z",
+            "last_commit": "2026-09-12T01:54:13Z",
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
@@ -1184,8 +1184,8 @@
             "id": 75411113,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-24T21:12:47Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-12T21:03:53Z",
+            "open_issues": 10,
             "owner": "holepunchto",
             "repo": "dht-rpc",
             "stars": 213,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:22:49.179Z",
+    "last_updated": "2026-09-12T23:06:21.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
