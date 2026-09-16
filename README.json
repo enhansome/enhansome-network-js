@@ -47,11 +47,11 @@
             "id": 22475123,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-01T11:38:47Z",
-            "open_issues": 321,
+            "last_commit": "2026-09-16T01:19:08Z",
+            "open_issues": 320,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19132,
+            "stars": 19131,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7802,
+            "stars": 7800,
             "topics": [
               "browser",
               "data-channels",
@@ -941,7 +941,7 @@
             "open_issues": 59,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2912,
+            "stars": 2911,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:33:10.665Z",
+    "last_updated": "2026-09-16T23:40:59.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
