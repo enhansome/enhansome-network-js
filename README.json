@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31401,
+            "stars": 31402,
             "topics": [
               "bittorrent",
               "browser",
@@ -941,7 +941,7 @@
             "open_issues": 59,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2911,
+            "stars": 2912,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -959,7 +959,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T21:12:43Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1941,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:15:32.720Z",
+    "last_updated": "2026-09-20T23:19:20.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
