@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31402,
+            "stars": 31407,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 321,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19134,
+            "stars": 19133,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17466,
+            "stars": 17467,
             "topics": [
               "proxy",
               "websocket-server",
@@ -941,7 +941,7 @@
             "open_issues": 59,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2912,
+            "stars": 2913,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:19:20.079Z",
+    "last_updated": "2026-09-22T00:11:05.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
