@@ -6,9 +6,9 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,407 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-19 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,133 | 🐛 321 | 🌐 JavaScript | 📅 2026-09-16 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,467 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,410 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-19 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,134 | 🐛 321 | 🌐 JavaScript | 📅 2026-09-16 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,468 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,270 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,595 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-15 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,001 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
@@ -31,7 +31,7 @@
 
 > Do one thing well.
 
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,802 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,803 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) ⭐ 1,974 | 🐛 91 | 🌐 JavaScript | 📅 2020-12-04 – The low level streaming torrent engine that peerflix uses.
 * [hyperdb](https://github.com/mafintosh/hyperdb) ⭐ 748 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-16 – Distributed scalable database.
 * [rpc-websockets](https://github.com/elpheria/rpc-websockets) ⭐ 626 | 🐛 17 | 🌐 JavaScript | 📅 2026-05-15 - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
