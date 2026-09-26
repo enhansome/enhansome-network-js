@@ -6,8 +6,8 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,420 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-19 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,138 | 🐛 321 | 🌐 JavaScript | 📅 2026-09-16 – A realtime, decentralized, offline-first, graph database engine.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,422 | 🐛 81 | 🌐 JavaScript | 📅 2026-09-19 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,140 | 🐛 318 | 🌐 JavaScript | 📅 2026-09-26 – A realtime, decentralized, offline-first, graph database engine.
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,470 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,269 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,595 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-25 – Streaming file transfer over WebTorrent.
@@ -19,7 +19,7 @@
 * [peercast](https://github.com/mafintosh/peercast) ⭐ 519 | 🐛 9 | 🌐 JavaScript | 📅 2018-05-07 – Like peerflix but for Chromecast.
 * [hypervision](https://github.com/mafintosh/hypervision) ⭐ 450 | 🐛 24 | 🌐 JavaScript | 📅 2018-06-17 – P2P Television.
 * [webcat](https://github.com/mafintosh/webcat) ⭐ 449 | 🐛 10 | 🌐 JavaScript | 📅 2020-07-28 – pipe across the web using WebRTC.
-* [peerwiki](https://github.com/mafintosh/peerwiki) ⭐ 317 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-09 – browse all of wikipedia using bittorrent.
+* [peerwiki](https://github.com/mafintosh/peerwiki) ⭐ 318 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-09 – browse all of wikipedia using bittorrent.
 * [deejay](https://github.com/mafintosh/deejay) ⭐ 127 | 🐛 4 | 🌐 JavaScript | 📅 2015-12-18 – Music player that broadcasts to everyone on the same network.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe) ⭐ 118 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-11 – Distributed input/output pipe.
 * [blecat](https://github.com/mafintosh/blecat) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-15 – 1-1 pipe over bluetooth low energy.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
