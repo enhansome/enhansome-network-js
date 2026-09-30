@@ -15,8 +15,8 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T21:48:45Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-29T19:50:03Z",
+            "open_issues": 78,
             "owner": "webtorrent",
             "repo": "webtorrent",
             "stars": 31425,
@@ -51,7 +51,7 @@
             "open_issues": 318,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19142,
+            "stars": 19144,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17472,
+            "stars": 17471,
             "topics": [
               "proxy",
               "websocket-server",
@@ -938,10 +938,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T20:07:52Z",
-            "open_issues": 59,
+            "open_issues": 58,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2917,
+            "stars": 2918,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -962,7 +962,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1943,
+            "stars": 1942,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:04:03.518Z",
+    "last_updated": "2026-09-30T00:35:20.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
@@ -1359,7 +1359,7 @@
       "open_issues": 0,
       "owner": "Kikobeats",
       "repo": "awesome-network-js",
-      "stars": 584,
+      "stars": 585,
       "topics": []
     },
     "original_repository_sha": "9b5f8f2eb9dec2de759373756d2ca55e4183f204",
