@@ -19,7 +19,7 @@
             "open_issues": 78,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31425,
+            "stars": 31426,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 318,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19144,
+            "stars": 19145,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -135,7 +135,7 @@
             "id": 22553278,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T03:34:35Z",
+            "last_commit": "2026-09-30T23:43:45Z",
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:35:20.880Z",
+    "last_updated": "2026-10-01T00:37:45.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
