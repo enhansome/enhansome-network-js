@@ -6,9 +6,9 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,426 | 🐛 78 | 🌐 JavaScript | 📅 2026-09-29 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,145 | 🐛 318 | 🌐 JavaScript | 📅 2026-09-26 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,471 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,426 | 🐛 79 | 🌐 JavaScript | 📅 2026-09-29 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,145 | 🐛 317 | 🌐 JavaScript | 📅 2026-09-26 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,463 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,268 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,595 | 🐛 39 | 🌐 JavaScript | 📅 2026-09-30 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,002 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
@@ -20,7 +20,7 @@
 * [hypervision](https://github.com/mafintosh/hypervision) ⭐ 450 | 🐛 24 | 🌐 JavaScript | 📅 2018-06-17 – P2P Television.
 * [webcat](https://github.com/mafintosh/webcat) ⭐ 449 | 🐛 10 | 🌐 JavaScript | 📅 2020-07-28 – pipe across the web using WebRTC.
 * [peerwiki](https://github.com/mafintosh/peerwiki) ⭐ 318 | 🐛 3 | 🌐 JavaScript | 📅 2018-02-09 – browse all of wikipedia using bittorrent.
-* [deejay](https://github.com/mafintosh/deejay) ⭐ 127 | 🐛 4 | 🌐 JavaScript | 📅 2015-12-18 – Music player that broadcasts to everyone on the same network.
+* [deejay](https://github.com/mafintosh/deejay) ⭐ 128 | 🐛 4 | 🌐 JavaScript | 📅 2015-12-18 – Music player that broadcasts to everyone on the same network.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe) ⭐ 118 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-11 – Distributed input/output pipe.
 * [blecat](https://github.com/mafintosh/blecat) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2015-06-15 – 1-1 pipe over bluetooth low energy.
 * [wifi-triangulate](https://github.com/watson/wifi-triangulate) ⭐ 71 | 🐛 1 | 🌐 JavaScript | 📅 2016-04-23 – Finds your current position on planet earth using the wifi access point.
@@ -56,7 +56,7 @@
 
 > Implementation of protocols specs in pure javascript.
 
-* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,918 | 🐛 58 | 🌐 JavaScript | 📅 2026-09-28 – A p2p network for distributing and replicating static feeds of binary data.
+* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,919 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-28 – A p2p network for distributing and replicating static feeds of binary data.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,942 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-04 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,282 | 🐛 24 | 🌐 JavaScript | 📅 2026-09-10 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
