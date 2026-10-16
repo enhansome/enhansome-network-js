@@ -15,11 +15,11 @@
             "id": 13584262,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T12:51:01Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-16T04:24:22Z",
+            "open_issues": 82,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31442,
+            "stars": 31447,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 317,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19141,
+            "stars": 19143,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -139,7 +139,7 @@
             "open_issues": 39,
             "owner": "webtorrent",
             "repo": "instant.io",
-            "stars": 3599,
+            "stars": 3600,
             "topics": [
               "bittorrent",
               "javascript",
@@ -518,7 +518,7 @@
             "open_issues": 91,
             "owner": "mafintosh",
             "repo": "torrent-stream",
-            "stars": 1972,
+            "stars": 1973,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -640,7 +640,7 @@
             "id": 13917211,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T12:56:06Z",
+            "last_commit": "2026-10-16T04:22:52Z",
             "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
@@ -672,7 +672,7 @@
             "id": 23037077,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T12:57:14Z",
+            "last_commit": "2026-10-16T04:24:55Z",
             "open_issues": 6,
             "owner": "webtorrent",
             "repo": "torrent-discovery",
@@ -938,10 +938,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-15T00:20:09Z",
-            "open_issues": 65,
+            "open_issues": 67,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2917,
+            "stars": 2918,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -962,7 +962,7 @@
             "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -993,11 +993,11 @@
             "id": 14274230,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T12:51:47Z",
+            "last_commit": "2026-10-16T04:22:56Z",
             "open_issues": 24,
             "owner": "webtorrent",
             "repo": "bittorrent-dht",
-            "stars": 1283,
+            "stars": 1284,
             "topics": [
               "bittorrent",
               "bittorrent-dht",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:43:10.594Z",
+    "last_updated": "2026-10-16T23:42:30.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
