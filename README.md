@@ -6,13 +6,13 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,446 | 🐛 82 | 🌐 JavaScript | 📅 2026-10-17 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,144 | 🐛 317 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,459 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
-* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,270 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
-* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,600 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-17 – Streaming file transfer over WebTorrent.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,449 | 🐛 82 | 🌐 JavaScript | 📅 2026-10-17 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,147 | 🐛 317 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,458 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,269 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
+* [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,601 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-17 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 3,001 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
-* [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,415 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
+* [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,414 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [airpaste](https://github.com/mafintosh/airpaste) ⭐ 827 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18 – 1-1 network pipe that auto discovers other peers using mdns.
 * [signalhub](https://github.com/mafintosh/signalhub) ⭐ 672 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-19 – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
 * [ipp-printer](https://github.com/watson/ipp-printer) ⭐ 577 | 🐛 32 | 🌐 JavaScript | 📅 2022-05-06 – Create a printer on your network.
@@ -41,7 +41,7 @@
 * [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 228 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-16 – Discover BitTorrent and WebTorrent peers.
 * [dns-packet](https://github.com/mafintosh/dns-packet) ⭐ 217 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25 – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket) ⭐ 106 | 🐛 9 | 🌐 JavaScript | 📅 2021-05-28.
 * [simple-websocket](https://github.com/feross/simple-websocket) ⭐ 186 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-30 – Simple, EventEmitter API for WebSockets.
-* [castnow](https://github.com/xat/chromecast-player) ⭐ 101 | 🐛 8 | 🌐 JavaScript | 📅 2018-03-13 – simple chromecast player.
+* [chromecast-player](https://github.com/xat/chromecast-player) ⭐ 101 | 🐛 8 | 🌐 JavaScript | 📅 2018-03-13 – simple chromecast player.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) ⭐ 93 | 🐛 6 | 🌐 JavaScript | 📅 2024-07-06 - A transport agnostic RTSP serial multiplexer module for Node.
 * [network-address](https://github.com/mafintosh/network-address) ⭐ 66 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-17 – Get the local network address of your machine.
 * [etcdjs](https://github.com/mafintosh/etcdjs) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-03 – Low level etcd v2 client written in Javascript with failover support.
@@ -57,7 +57,7 @@
 > Implementation of protocols specs in pure javascript.
 
 * [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,918 | 🐛 67 | 🌐 JavaScript | 📅 2026-10-15 – A p2p network for distributing and replicating static feeds of binary data.
-* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,942 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-15 – BitTorrent tracker (client & server) implementation
+* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,941 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-15 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,284 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-16 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 876 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
