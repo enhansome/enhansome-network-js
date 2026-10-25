@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-24T18:40:44Z",
-            "open_issues": 81,
+            "open_issues": 80,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31452,
+            "stars": 31455,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 317,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19150,
+            "stars": 19151,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17458,
+            "stars": 17459,
             "topics": [
               "proxy",
               "websocket-server",
@@ -118,7 +118,7 @@
             "open_issues": 140,
             "owner": "mafintosh",
             "repo": "peerflix",
-            "stars": 6268,
+            "stars": 6269,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7796,
+            "stars": 7798,
             "topics": [
               "browser",
               "data-channels",
@@ -941,7 +941,7 @@
             "open_issues": 71,
             "owner": "holepunchto",
             "repo": "hypercore",
-            "stars": 2922,
+            "stars": 2923,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1074,7 +1074,7 @@
             "open_issues": 11,
             "owner": "thibauts",
             "repo": "node-castv2",
-            "stars": 793,
+            "stars": 794,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:25:25.198Z",
+    "last_updated": "2026-10-25T23:21:39.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",

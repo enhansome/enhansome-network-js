@@ -6,10 +6,10 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,452 | 🐛 81 | 🌐 JavaScript | 📅 2026-10-24 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,150 | 🐛 317 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,458 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
-* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,268 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,455 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-24 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,151 | 🐛 317 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,459 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,269 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,600 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-22 – Streaming file transfer over WebTorrent.
 * [screencat](https://github.com/maxogden/screencat) ⭐ 2,999 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,413 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
@@ -31,7 +31,7 @@
 
 > Do one thing well.
 
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,796 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,798 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) ⭐ 1,974 | 🐛 91 | 🌐 JavaScript | 📅 2020-12-04 – The low level streaming torrent engine that peerflix uses.
 * [hyperdb](https://github.com/mafintosh/hyperdb) ⭐ 748 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-16 – Distributed scalable database.
 * [rpc-websockets](https://github.com/elpheria/rpc-websockets) ⭐ 626 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-15 - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
@@ -56,12 +56,12 @@
 
 > Implementation of protocols specs in pure javascript.
 
-* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,922 | 🐛 71 | 🌐 JavaScript | 📅 2026-10-23 – A p2p network for distributing and replicating static feeds of binary data.
+* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,923 | 🐛 71 | 🌐 JavaScript | 📅 2026-10-23 – A p2p network for distributing and replicating static feeds of binary data.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,941 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-15 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,284 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-22 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 877 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
-* [castv2](https://github.com/thibauts/node-castv2) ⭐ 793 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-04 – An implementation of the Chromecast CASTV2 protocol.
+* [castv2](https://github.com/thibauts/node-castv2) ⭐ 794 | 🐛 11 | 🌐 JavaScript | 📅 2022-07-04 – An implementation of the Chromecast CASTV2 protocol.
 * [bonjour](https://github.com/watson/bonjour) ⭐ 652 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-14 – A Bonjour/Zeroconf protocol implementation.
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) ⭐ 532 | 🐛 20 | 🌐 JavaScript | 📅 2024-06-14 – Low level multicast-dns implementation.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) ⭐ 359 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-22 – BitTorrent peer wire protocol implementation.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
