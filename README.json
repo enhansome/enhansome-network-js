@@ -19,7 +19,7 @@
             "open_issues": 81,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31456,
+            "stars": 31457,
             "topics": [
               "bittorrent",
               "browser",
@@ -139,7 +139,7 @@
             "open_issues": 40,
             "owner": "webtorrent",
             "repo": "instant.io",
-            "stars": 3599,
+            "stars": 3598,
             "topics": [
               "bittorrent",
               "javascript",
@@ -168,7 +168,7 @@
             "open_issues": 37,
             "owner": "max-mapper",
             "repo": "screencat",
-            "stars": 2998,
+            "stars": 2997,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7796,
+            "stars": 7797,
             "topics": [
               "browser",
               "data-channels",
@@ -937,8 +937,8 @@
             "id": 48335985,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:05:38Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-29T21:32:01Z",
+            "open_issues": 69,
             "owner": "holepunchto",
             "repo": "hypercore",
             "stars": 2926,
@@ -1029,7 +1029,7 @@
             "open_issues": 15,
             "owner": "ipfs-inactive",
             "repo": "js-ipfs-http-client",
-            "stars": 1042,
+            "stars": 1041,
             "topics": [
               "ipfs-client",
               "javascript"
@@ -1095,7 +1095,7 @@
             "open_issues": 53,
             "owner": "watson",
             "repo": "bonjour",
-            "stars": 652,
+            "stars": 653,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:04:20.820Z",
+    "last_updated": "2026-10-30T01:10:08.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
