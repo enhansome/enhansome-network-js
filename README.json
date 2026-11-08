@@ -19,7 +19,7 @@
             "open_issues": 87,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31467,
+            "stars": 31470,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 318,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19161,
+            "stars": 19162,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -623,7 +623,7 @@
             "open_issues": 5,
             "owner": "watson",
             "repo": "airplay-server",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.103Z"
@@ -641,7 +641,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-30T06:51:08Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "webtorrent",
             "repo": "magnet-uri",
             "stars": 237,
@@ -962,7 +962,7 @@
             "open_issues": 18,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "bittorrent",
               "bittorrent-tracker",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:59:09.238Z",
+    "last_updated": "2026-11-08T00:47:50.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",

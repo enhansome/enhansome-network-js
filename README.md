@@ -6,8 +6,8 @@
 
 > Based, at least, in a CLI interface.
 
-* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,467 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-06 – BitTorrent over WebRTC.
-* [gun](https://github.com/amark/gun) ⭐ 19,161 | 🐛 318 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
+* [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,470 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-06 – BitTorrent over WebRTC.
+* [gun](https://github.com/amark/gun) ⭐ 19,162 | 🐛 318 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,453 | 🐛 1 | 🌐 Go | 📅 2026-09-07 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,268 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,598 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-06 – Streaming file transfer over WebTorrent.
@@ -36,8 +36,8 @@
 * [hyperdb](https://github.com/mafintosh/hyperdb) ⭐ 748 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-16 – Distributed scalable database.
 * [rpc-websockets](https://github.com/elpheria/rpc-websockets) ⭐ 626 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-15 - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) ⭐ 370 | 🐛 29 | 🌐 JavaScript | 📅 2020-08-02 – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) ⚠️ Archived to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) ⭐ 377 | 🐛 15 | 🌐 JavaScript | 📅 2020-11-06.
-* [airplay-server](https://github.com/watson/airplay-server) ⭐ 262 | 🐛 5 | 🌐 JavaScript | 📅 2016-09-25 – A low level AirPlay server.
-* [magnet-uri](https://github.com/webtorrent/magnet-uri) ⭐ 237 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-30 – Parse a magnet URI and return an object of keys/values.
+* [airplay-server](https://github.com/watson/airplay-server) ⭐ 263 | 🐛 5 | 🌐 JavaScript | 📅 2016-09-25 – A low level AirPlay server.
+* [magnet-uri](https://github.com/webtorrent/magnet-uri) ⭐ 237 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-30 – Parse a magnet URI and return an object of keys/values.
 * [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 228 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 – Discover BitTorrent and WebTorrent peers.
 * [dns-packet](https://github.com/mafintosh/dns-packet) ⭐ 217 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25 – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket) ⭐ 105 | 🐛 9 | 🌐 JavaScript | 📅 2021-05-28.
 * [simple-websocket](https://github.com/feross/simple-websocket) ⭐ 186 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-30 – Simple, EventEmitter API for WebSockets.
@@ -57,7 +57,7 @@
 > Implementation of protocols specs in pure javascript.
 
 * [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,929 | 🐛 70 | 🌐 JavaScript | 📅 2026-11-06 – A p2p network for distributing and replicating static feeds of binary data.
-* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,941 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-28 – BitTorrent tracker (client & server) implementation
+* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,942 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-28 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,281 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 876 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
