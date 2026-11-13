@@ -8,10 +8,10 @@
 
 * [webtorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,475 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-06 – BitTorrent over WebRTC.
 * [gun](https://github.com/amark/gun) ⭐ 19,162 | 🐛 318 | 🌐 JavaScript | 📅 2026-10-15 – A realtime, decentralized, offline-first, graph database engine.
-* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,456 | 🐛 1 | 🌐 Go | 📅 2026-11-09 – Turn any program that uses stdin/stdout into a WebSocket server.
+* [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,455 | 🐛 1 | 🌐 Go | 📅 2026-11-09 – Turn any program that uses stdin/stdout into a WebSocket server.
 * [peerflix](https://github.com/mafintosh/peerflix) ⭐ 6,269 | 🐛 140 | 🌐 JavaScript | 📅 2022-06-19 – Streaming torrent client.
 * [instant.io](https://github.com/webtorrent/instant.io) ⭐ 3,595 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-11 – Streaming file transfer over WebTorrent.
-* [screencat](https://github.com/maxogden/screencat) ⭐ 2,994 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
+* [screencat](https://github.com/maxogden/screencat) ⭐ 2,993 | 🐛 37 | 🌐 CSS | 📅 2016-02-18 – WebRTC screensharing app.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) ⭐ 1,410 | 🐛 10 | 🌐 JavaScript | 📅 2015-03-29 – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [airpaste](https://github.com/mafintosh/airpaste) ⭐ 826 | 🐛 4 | 🌐 JavaScript | 📅 2021-08-18 – 1-1 network pipe that auto discovers other peers using mdns.
 * [signalhub](https://github.com/mafintosh/signalhub) ⭐ 672 | 🐛 17 | 🌐 JavaScript | 📅 2024-02-19 – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
@@ -31,14 +31,14 @@
 
 > Do one thing well.
 
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,798 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,799 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 – Simple WebRTC video/voice and data channels.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) ⭐ 1,973 | 🐛 91 | 🌐 JavaScript | 📅 2020-12-04 – The low level streaming torrent engine that peerflix uses.
 * [hyperdb](https://github.com/mafintosh/hyperdb) ⭐ 748 | 🐛 44 | 🌐 JavaScript | 📅 2025-01-16 – Distributed scalable database.
 * [rpc-websockets](https://github.com/elpheria/rpc-websockets) ⭐ 627 | 🐛 16 | 🌐 JavaScript | 📅 2026-05-15 - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript.
 * [discovery-swarm](https://github.com/mafintosh/discovery-swarm) ⭐ 370 | 🐛 29 | 🌐 JavaScript | 📅 2020-08-02 – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) ⚠️ Archived to find peers. Also check [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm) ⭐ 377 | 🐛 15 | 🌐 JavaScript | 📅 2020-11-06.
 * [airplay-server](https://github.com/watson/airplay-server) ⭐ 263 | 🐛 5 | 🌐 JavaScript | 📅 2016-09-25 – A low level AirPlay server.
 * [magnet-uri](https://github.com/webtorrent/magnet-uri) ⭐ 237 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-30 – Parse a magnet URI and return an object of keys/values.
-* [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 228 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 – Discover BitTorrent and WebTorrent peers.
+* [torrent-discovery](https://github.com/webtorrent/torrent-discovery) ⭐ 227 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-30 – Discover BitTorrent and WebTorrent peers.
 * [dns-packet](https://github.com/mafintosh/dns-packet) ⭐ 217 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-25 – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket](https://github.com/mafintosh/dns-socket) ⭐ 105 | 🐛 9 | 🌐 JavaScript | 📅 2021-05-28.
 * [simple-websocket](https://github.com/feross/simple-websocket) ⭐ 186 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-30 – Simple, EventEmitter API for WebSockets.
 * [chromecast-player](https://github.com/xat/chromecast-player) ⭐ 101 | 🐛 8 | 🌐 JavaScript | 📅 2018-03-13 – simple chromecast player.
@@ -56,8 +56,8 @@
 
 > Implementation of protocols specs in pure javascript.
 
-* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,930 | 🐛 74 | 🌐 JavaScript | 📅 2026-11-09 – A p2p network for distributing and replicating static feeds of binary data.
-* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,942 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-28 – BitTorrent tracker (client & server) implementation
+* [hypercore](https://github.com/mafintosh/hypercore) ⭐ 2,930 | 🐛 74 | 🌐 JavaScript | 📅 2026-11-12 – A p2p network for distributing and replicating static feeds of binary data.
+* [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) ⭐ 1,942 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-28 – BitTorrent tracker (client & server) implementation
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) ⭐ 1,281 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-30 – BitTorrent DHT protocol implementation.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) ⚠️ Archived – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
 * [mdns](https://github.com/agnat/node_mdns) ⭐ 876 | 🐛 45 | 🌐 JavaScript | 📅 2024-02-23 – mdns/zeroconf/bonjour service discovery.
@@ -77,4 +77,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
