@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-14T23:52:16Z",
-            "open_issues": 88,
+            "open_issues": 93,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31478,
+            "stars": 31477,
             "topics": [
               "bittorrent",
               "browser",
@@ -51,7 +51,7 @@
             "open_issues": 318,
             "owner": "amark",
             "repo": "gun",
-            "stars": 19158,
+            "stars": 19157,
             "topics": [
               "artificial-intelligence",
               "big-data",
@@ -93,7 +93,7 @@
             "open_issues": 1,
             "owner": "joewalnes",
             "repo": "websocketd",
-            "stars": 17457,
+            "stars": 17458,
             "topics": [
               "proxy",
               "websocket-server",
@@ -489,7 +489,7 @@
             "open_issues": 128,
             "owner": "feross",
             "repo": "simple-peer",
-            "stars": 7797,
+            "stars": 7796,
             "topics": [
               "browser",
               "data-channels",
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:07:42.819Z",
+    "last_updated": "2026-11-16T01:10:05.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
