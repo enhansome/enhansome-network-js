@@ -959,7 +959,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-20T20:04:22Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "webtorrent",
             "repo": "bittorrent-tracker",
             "stars": 1941,
@@ -1347,7 +1347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:40:44.136Z",
+    "last_updated": "2026-11-28T03:22:17.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A :tophat: list of network layer resources written pure JS.",
